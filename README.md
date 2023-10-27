@@ -1,4 +1,4 @@
-# flutter_gethuk_apps
+# e-commerce
 
 A new Flutter project.
 
